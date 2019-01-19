@@ -1,0 +1,8 @@
+name: VehicleLocker
+version: 2.0
+author: MrWouter
+main: me.wouter.vehiclelocker.Main
+softdepend: [Vehicles, Craftmoto]
+commands:
+    lockvehicle:
+       aliases: [lockcar, vehiclelock, lockplane, lockbike, sleutel, autoslot, slot]
